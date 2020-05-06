@@ -2,4 +2,4 @@
 
  Class pandasMOdel create and display a pandas dataframe dataset using the PyQt5 library. 
 
- ![]("pandas_gui.png")
+ ![](pandas_gui.png)
